@@ -1,30 +1,54 @@
-# Olá! 👋 Meu nome é Davi Fizbejn
+<h3 align="left">My name is Davi Fiszbejn, a Systems Information student at FIAP, embarking on a journey of growth in the programming world. Passionate about technology, I aim to enhance my skills and contribute to innovative projects.</h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Davi-Fiszbejn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davifiszbejn/)](https://www.linkedin.com/in/davifiszbejn/)
-[![Gmail Badge](https://img.shields.io/badge/-dfiszbejn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dfiszbejn@gmail.com)](mailto:dfiszbejn@gmail.com)
+###
 
-Sou desenvolvedor full-stack e apaixonado por resolver problemas usando tecnologia. Meu objetivo é contribuir para projetos que possam causar um impacto positivo e que me desafiem a aprender cada vez mais.
+<p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: JavaScript, Python, Java
-- **Front-End**: HTML, CSS, React.js, Bootstrap
-- **Back-End**: Node.js, Express.js, Django, SQL
-- **DevOps**: Docker, Git, GitHub Actions
-- **Outras ferramentas**: VS Code, Postman, Figma, photoshop
+###
 
-## 🚀 Projetos Recentes
-- **[Matematica no metro](https://github.com/IMT-PII-2-Semestre/matematica-no-metro)** - um website para o "Matemática no Metrô", projeto realizado pelo Instituto de Engenharia e pelo Metrô de São Paulo, com apoio do Instituto Mauá de Tecnologia.
-- **[Calculadora de investimento](https://github.com/MuriloMKA/calculadora_investimento)** - Descrição do projeto 2 e tecnologias utilizadas.
+<p align="center">✉️Reach me out:</p>
 
-## 📊 GitHub Stats
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=muriloMKA&show_icons=true&theme=midnight-purple)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloMKA&layout=compact&theme=radical)
+###
 
-## 🌱 Estou Aprendendo
-Atualmente estou estudando:
-- **Machine Learning com Python**
-- **React Native para desenvolvimento mobile e me aprofundando meus conhecimentos em React.js e Node.js**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-## 📫 Como me encontrar
-- **LinkedIn**: [Murilo Kaspar](https://www.linkedin.com/in/murilo-kaspar-de-andrade-66034a2b7/)
-- **Email**: murilao06@hotmail.com
+###
+
+<p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
+
+###
+
+<h6 align="center">🤖Top Technologies:</h6>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<p align="left">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fiszbejn&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Fiszbejn&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fiszbejn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
