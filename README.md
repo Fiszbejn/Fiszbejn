@@ -1,4 +1,4 @@
-<h3 align="left">My name is Davi Fiszbejn, a Systems Information student at FIAP, embarking on a journey of growth in the programming world. Passionate about technology, I aim to enhance my skills and contribute to innovative projects.</h3>
+<h3 align="left">Hi👋 I'am Davi Fiszbejn, a Systems Information student at FIAP, embarking on a journey of growth in the programming world. Passionate about technology, I aim to enhance my skills and contribute to innovative projects.</h3>
 
 ###
 
