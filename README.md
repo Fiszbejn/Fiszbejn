@@ -1,4 +1,4 @@
-<h3 align="left">Hi👋 I'am Davi Fiszbejn, a Systems Information student at FIAP, embarking on a journey of growth in the programming world. Passionate about technology, I aim to enhance my skills and contribute to innovative projects.</h3>
+<h3 align="left">My name is Davi Fiszbejn, a Systems Information student at FIAP, embarking on a journey of growth in the programming world. Passionate about technology, I aim to enhance my skills and contribute to innovative projects.</h3>
 
 ###
 
@@ -11,10 +11,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/davifiszbejn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/dfiszbejn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpccpDvwZwXgJPkHBfKBSDDqMSpSnXNgShSJqHzQSfSBqGwFpSRBbtpGvqlNhnxdWSFZjQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
