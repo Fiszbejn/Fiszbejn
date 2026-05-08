@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 20 years old passionate student of Computer and Information Systems from Brazil, my goal is to learn and contribute to projects that can challenge me and positively impact my learning and development in this world.</p>
+<p align="left">Information Systems student at FIAP, Brazil. Focused on building projects that challenge me and drive my growth as a developer.</p>
 
 ###
 
